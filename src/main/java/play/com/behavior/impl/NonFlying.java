@@ -7,6 +7,6 @@ import play.com.behavior.FlyBehavior;
  */
 public class NonFlying implements FlyBehavior{
     public void fly() {
-
+        System.out.println("Can't fly");
     }
 }
