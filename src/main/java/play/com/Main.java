@@ -1,9 +1,9 @@
 package play.com;
 
-import play.com.behavior.impl.FlyWithWings;
-import play.com.duck.Duck;
-import play.com.duck.impl.MDuck;
-import play.com.duck.impl.ModelDuck;
+import play.com.srategy.behavior.impl.FlyWithWings;
+import play.com.srategy.duck.Duck;
+import play.com.srategy.duck.impl.MDuck;
+import play.com.srategy.duck.impl.ModelDuck;
 
 /**
  * Created by tanya on 16.10.17.
